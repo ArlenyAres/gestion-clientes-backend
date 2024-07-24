@@ -2,7 +2,7 @@
 Este proyecto es el backend para la aplicación de gestión de clientes, desarrollado utilizando solo Spring. Proporciona una API RESTful para interactuar con una base de datos MySQL.
 
 ### Tecnologías Utilizadas
-Spring Boot
+Spring 
 Spring Data JPA
 MySQL
 Lombok
